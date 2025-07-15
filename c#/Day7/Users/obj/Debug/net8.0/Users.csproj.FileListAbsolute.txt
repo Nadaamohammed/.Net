@@ -1,0 +1,14 @@
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.AssemblyInfoInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.AssemblyInfo.cs
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\bin\Debug\net8.0\Users.exe
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\bin\Debug\net8.0\Users.deps.json
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\bin\Debug\net8.0\Users.runtimeconfig.json
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\bin\Debug\net8.0\Users.dll
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\bin\Debug\net8.0\Users.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.dll
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\refint\Users.dll
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\Users.genruntimeconfig.cache
+C:\Users\nadaa\source\repos\.net\c#\Day7\Users\obj\Debug\net8.0\ref\Users.dll

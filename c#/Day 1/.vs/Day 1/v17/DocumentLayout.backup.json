@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9C77A-0803-4681-8D5F-F43B0093E237}|Demo4\\Demo4.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9C77A-0803-4681-8D5F-F43B0093E237}|Demo4\\Demo4.csproj|solutionrelative:demo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9C77A-0803-4681-8D5F-F43B0093E237}|Demo4\\Demo4.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo4\\demo4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E9C77A-0803-4681-8D5F-F43B0093E237}|Demo4\\Demo4.csproj|solutionrelative:demo4\\demo4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E9C77A-0803-4681-8D5F-F43B0093E237}|Demo4\\Demo4.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E9C77A-0803-4681-8D5F-F43B0093E237}|Demo4\\Demo4.csproj|solutionrelative:demo4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7443661E-8A79-43E5-9BDA-263A1E23B09D}|Demo3\\Demo3.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo3\\demo3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7443661E-8A79-43E5-9BDA-263A1E23B09D}|Demo3\\Demo3.csproj|solutionrelative:demo3\\demo3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7443661E-8A79-43E5-9BDA-263A1E23B09D}|Demo3\\Demo3.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7443661E-8A79-43E5-9BDA-263A1E23B09D}|Demo3\\Demo3.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7443661E-8A79-43E5-9BDA-263A1E23B09D}|Demo3\\Demo3.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo3\\f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7443661E-8A79-43E5-9BDA-263A1E23B09D}|Demo3\\Demo3.csproj|solutionrelative:demo3\\f1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBD38F-4984-44F6-B498-DB2136A00C11}|Demo2\\Demo2.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBD38F-4984-44F6-B498-DB2136A00C11}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25ED169A-7A34-413C-ABCE-304D1127690E}|Demo 1\\Demo 1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25ED169A-7A34-413C-ABCE-304D1127690E}|Demo 1\\Demo 1.csproj|solutionrelative:demo 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25ED169A-7A34-413C-ABCE-304D1127690E}|Demo 1\\Demo 1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\day 1\\demo 1\\demo 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25ED169A-7A34-413C-ABCE-304D1127690E}|Demo 1\\Demo 1.csproj|solutionrelative:demo 1\\demo 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo3",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo3\\Demo3.csproj",
+              "RelativeDocumentMoniker": "Demo3\\Demo3.csproj",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo3\\Demo3.csproj",
+              "RelativeToolTip": "Demo3\\Demo3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T13:48:45.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo4\\Point.cs",
+              "RelativeDocumentMoniker": "Demo4\\Point.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo4\\Point.cs",
+              "RelativeToolTip": "Demo4\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:46:32.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo4",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo4\\Demo4.csproj",
+              "RelativeDocumentMoniker": "Demo4\\Demo4.csproj",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo4\\Demo4.csproj",
+              "RelativeToolTip": "Demo4\\Demo4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T13:45:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo4\\Program.cs",
+              "RelativeDocumentMoniker": "Demo4\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo4\\Program.cs*",
+              "RelativeToolTip": "Demo4\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:36:25.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "F1.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo3\\F1.cs",
+              "RelativeDocumentMoniker": "Demo3\\F1.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo3\\F1.cs",
+              "RelativeToolTip": "Demo3\\F1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:23:26.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo3\\Program.cs",
+              "RelativeDocumentMoniker": "Demo3\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo3\\Program.cs",
+              "RelativeToolTip": "Demo3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:20:40.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T13:19:15.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Demo 1",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo 1\\Demo 1.csproj",
+              "RelativeDocumentMoniker": "Demo 1\\Demo 1.csproj",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo 1\\Demo 1.csproj",
+              "RelativeToolTip": "Demo 1\\Demo 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T12:46:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo 1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo 1\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Day 1\\Demo 1\\Program.cs",
+              "RelativeToolTip": "Demo 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T12:45:20.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

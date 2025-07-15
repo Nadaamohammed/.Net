@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{996F314E-3050-4078-954A-155CB7F290CB}|first\\first.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\first\\first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F314E-3050-4078-954A-155CB7F290CB}|first\\first.csproj|solutionrelative:first\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA77C7C-10A4-4A05-8BA6-5969AA553D61}|math\\math.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\first\\math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA77C7C-10A4-4A05-8BA6-5969AA553D61}|math\\math.csproj|solutionrelative:math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\first\\math\\Program.cs",
+              "RelativeDocumentMoniker": "math\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\first\\math\\Program.cs",
+              "RelativeToolTip": "math\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:43:22.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\first\\first\\Program.cs",
+              "RelativeDocumentMoniker": "first\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\first\\first\\Program.cs",
+              "RelativeToolTip": "first\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:42:54.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

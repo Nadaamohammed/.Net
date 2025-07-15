@@ -1,0 +1,14 @@
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\bin\Debug\net8.0\Genric.exe
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\bin\Debug\net8.0\Genric.deps.json
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\bin\Debug\net8.0\Genric.runtimeconfig.json
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\bin\Debug\net8.0\Genric.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\bin\Debug\net8.0\Genric.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.AssemblyInfoInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.AssemblyInfo.cs
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.csproj.CoreCompileInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\refint\Genric.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\Genric.genruntimeconfig.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\Genric\obj\Debug\net8.0\ref\Genric.dll

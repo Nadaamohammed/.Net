@@ -1,0 +1,14 @@
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\bin\Debug\net8.0\interfacee.exe
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\bin\Debug\net8.0\interfacee.deps.json
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\bin\Debug\net8.0\interfacee.runtimeconfig.json
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\bin\Debug\net8.0\interfacee.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\bin\Debug\net8.0\interfacee.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.AssemblyInfoInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.AssemblyInfo.cs
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.csproj.CoreCompileInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\refint\interfacee.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\interfacee.genruntimeconfig.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\interface\obj\Debug\net8.0\ref\interfacee.dll

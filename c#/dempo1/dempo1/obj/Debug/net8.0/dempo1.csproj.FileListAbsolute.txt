@@ -1,0 +1,14 @@
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\bin\Debug\net8.0\dempo1.exe
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\bin\Debug\net8.0\dempo1.deps.json
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\bin\Debug\net8.0\dempo1.runtimeconfig.json
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\bin\Debug\net8.0\dempo1.dll
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\bin\Debug\net8.0\dempo1.pdb
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.AssemblyInfoInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.AssemblyInfo.cs
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.csproj.CoreCompileInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.dll
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\refint\dempo1.dll
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.pdb
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\dempo1.genruntimeconfig.cache
+C:\Users\nadaa\source\repos\.net\c#\dempo1\dempo1\obj\Debug\net8.0\ref\dempo1.dll

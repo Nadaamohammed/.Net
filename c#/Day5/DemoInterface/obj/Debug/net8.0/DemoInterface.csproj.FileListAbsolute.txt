@@ -1,0 +1,14 @@
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\bin\Debug\net8.0\DemoInterface.exe
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\bin\Debug\net8.0\DemoInterface.deps.json
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\bin\Debug\net8.0\DemoInterface.runtimeconfig.json
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\bin\Debug\net8.0\DemoInterface.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\bin\Debug\net8.0\DemoInterface.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.AssemblyInfoInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.AssemblyInfo.cs
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.csproj.CoreCompileInputs.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\refint\DemoInterface.dll
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.pdb
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\DemoInterface.genruntimeconfig.cache
+C:\Users\nadaa\source\repos\.net\c#\Day5\DemoInterface\obj\Debug\net8.0\ref\DemoInterface.dll

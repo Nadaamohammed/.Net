@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\winform1\\winform1\\frmpaintcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|solutionrelative:winform1\\frmpaintcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\winform1\\winform1\\frmpaintcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|solutionrelative:winform1\\frmpaintcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\winform1\\winform1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|solutionrelative:winform1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\winform1\\frmshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|solutionrelative:winform1\\frmshapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\winform1\\winform1\\frmshapes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|solutionrelative:winform1\\frmshapes.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|c:\\users\\nadaa\\source\\repos\\.net\\c#\\winform1\\winform1\\frmshapes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA791F2C-16E5-4D95-B251-22AD363596FD}|Winform1\\Winform1.csproj|solutionrelative:winform1\\frmshapes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPaintcs.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmPaintcs.cs",
+              "RelativeDocumentMoniker": "Winform1\\FrmPaintcs.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmPaintcs.cs*",
+              "RelativeToolTip": "Winform1\\FrmPaintcs.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:17:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPaintcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmPaintcs.cs",
+              "RelativeDocumentMoniker": "Winform1\\FrmPaintcs.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmPaintcs.cs [Design]*",
+              "RelativeToolTip": "Winform1\\FrmPaintcs.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:16:58.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\Program.cs",
+              "RelativeDocumentMoniker": "Winform1\\Program.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\Program.cs",
+              "RelativeToolTip": "Winform1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:17:13.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmShapes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmShapes.cs",
+              "RelativeDocumentMoniker": "Winform1\\FrmShapes.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmShapes.cs [Design]",
+              "RelativeToolTip": "Winform1\\FrmShapes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:55:49.249Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmShapes.resx",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmShapes.resx",
+              "RelativeDocumentMoniker": "Winform1\\FrmShapes.resx",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmShapes.resx",
+              "RelativeToolTip": "Winform1\\FrmShapes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-13T16:15:27.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmShapes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmShapes.Designer.cs",
+              "RelativeDocumentMoniker": "Winform1\\FrmShapes.Designer.cs",
+              "ToolTip": "C:\\Users\\nadaa\\source\\repos\\.net\\c#\\Winform1\\Winform1\\FrmShapes.Designer.cs",
+              "RelativeToolTip": "Winform1\\FrmShapes.Designer.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAxwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T16:15:17.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
