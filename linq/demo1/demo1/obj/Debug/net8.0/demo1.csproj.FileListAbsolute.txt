@@ -1,0 +1,14 @@
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.AssemblyInfoInputs.cache
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.AssemblyInfo.cs
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\bin\Debug\net8.0\demo1.exe
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\bin\Debug\net8.0\demo1.deps.json
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\bin\Debug\net8.0\demo1.runtimeconfig.json
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\bin\Debug\net8.0\demo1.dll
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\bin\Debug\net8.0\demo1.pdb
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.dll
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\refint\demo1.dll
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.pdb
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\demo1.genruntimeconfig.cache
+C:\Users\nadaa\source\repos\.net\linq\demo1\demo1\obj\Debug\net8.0\ref\demo1.dll
